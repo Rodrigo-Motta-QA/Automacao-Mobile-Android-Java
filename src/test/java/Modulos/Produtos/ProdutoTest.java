@@ -1,5 +1,13 @@
 package Modulos.Produtos;
 
+//   Organização do projeto
+
+// PASSO 01: Fazer Login
+// PASSO 02: Vou definir um tempo para carregamento
+// PASSO 03: Abrir o formulário de novo produto
+// PASSO 04: Cadastrar um produto com valor inválido
+// PASSO 05: validar que a mensagem de valor invalido foi apresentada
+
 import Telas.LoginTela;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
@@ -54,12 +62,3 @@ public class ProdutoTest {
         app.quit();
     }
 }
-// Fazer Logim 1º
-
-// vou definir um tempo para carregamento 2º
-
-// Abrir o formulário de novo produto 3º
-
-//Cadastrar um produto com valor inválido 4º
-
-// validar que a mensagem de valor invalido foi apresentada 5º
