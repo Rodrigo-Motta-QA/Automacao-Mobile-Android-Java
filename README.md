@@ -17,6 +17,5 @@ Testes para validar as partições de equivalência relacionados ao valor do pro
 
 - Foi utilizado a anotação Before Each para capturar as informações que serão utilizadas posteriormente nos métodos de teste.
 - Foram armazenados os dados em classes POJO.
-- Criamos dados iniciais através do uso de classe Data Factory, para facilitar a criação e controle dos mesmos.
 - Nesse projeto fazemos utilização do JUnit5, o que nos dá a possibilidade de usar a anotação DysplayName para dar descrições em português para os testes.
 - No final captura e exibe a mensagem apresentada. 
